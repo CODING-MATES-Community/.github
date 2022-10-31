@@ -8,8 +8,8 @@ Matthias Füller, FHDW Paderborn
 
 ### Impulsvortrag 1
 **gRPC – Effiziente Kommunikation zwischen Microservices**   
-Michél Burkhardt, INLOGY GmbH (@mb236)
+Michél Burkhardt, INLOGY GmbH ([@mb236](https://github.com/mb236))
 
 ### Impulsvortrag 2
 **Effizient, produktiv & unabhängig – Schlanke DevOps-Workflows mit Docker**  
-Sven Vinkemeier, INLOGY GmbH (@SvenEV)
+Sven Vinkemeier, INLOGY GmbH ([@SvenEV](https://github.com/svenev))
